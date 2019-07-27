@@ -1,2 +1,7 @@
 # Digit_Recognizer
-A cnn model to predict mnist digits dataset 
+A CNN model to predict mnist digits dataset with and without dataaugmentation.
+
+# Architecture
+![alt text](https:https://github.com/ShubhamShaswat/Digit_Recognizer/edit/master/img/model.png)
+
+
